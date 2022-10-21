@@ -9,3 +9,5 @@ Pode usar qualquer ferramenta que desejar para ajudar a completar o desafio. Nes
 Os usuários devem ser capazes de:
 
 Visualizar o layout ideal para o site, dependendo do tamanho da tela do dispositivo.
+
+Site do projeto no gitpages: https://gabriellimaferreira.github.io/Site-de-financas/
