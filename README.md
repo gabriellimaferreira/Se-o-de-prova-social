@@ -1,8 +1,8 @@
-# Seção-de-prova-social
+# Finans - um site de finanças.
 criando um layout responsivo, um desafio de HTML, CSS e Bootstrap.
 
 Apresentação
-Meu desafio é construir esta seção de prova social e fazê-la parecer o mais próximo possível do design.
+Meu desafio é construir uma pagina inicial de site de finanças. 
 
 Pode usar qualquer ferramenta que desejar para ajudar a completar o desafio. Nesse caso utilizarei o Bootstrap framework.
 
