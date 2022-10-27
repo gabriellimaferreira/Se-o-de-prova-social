@@ -4,7 +4,7 @@ criando um layout responsivo, um desafio de HTML, CSS e Bootstrap.
 Apresentação:
 Meu desafio é construir uma pagina inicial de site de finanças. 
 
-Pode usar qualquer ferramenta que desejar para ajudar a completar o desafio. Nesse caso utilizarei o Bootstrap framework.
+Tecnologias usadas: HTML, CSS e Bootstrap.
 
 Os usuários devem ser capazes de:
 
